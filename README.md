@@ -17,3 +17,5 @@ FireworksSCR uses the .xpm image file format to load images. When used as a scre
 The image used by FireworksSCR uses an 8x8 spritesheet.
 
 Screensavers are launched using the "-S" argument for the main program, "-C" for configuration, or "-P" for preview.
+
+Multi-monitor support is achieved by creating a single borderless window sized to stretch across all monitors.
